@@ -11,7 +11,7 @@ var children = document.querySelector('.js-carousel__track').children;
 
 var childrenArray = Array.from(children);
 
-var imageIndex = 0;
+var imageIndex = -1;
 
 const rightHandler = function() {
     imageIndex = (imageIndex + 1) % 3;
