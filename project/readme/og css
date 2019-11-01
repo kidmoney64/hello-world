@@ -75,15 +75,9 @@ h4{
     column-gap: 40px;
     column-rule-style: solid;
 }
-.contact{
-    text-align: center;
-}
+
 .form{
-    position: absolute;
-    outline-style: solid;
-    padding: 50pt;
-    margin-left: 40%;
-    margin-right: none;
+    text-align: center;
 }
 input{
     display: block;
@@ -116,7 +110,6 @@ input{
 }
 
 .carousel{
-    position: relative;
     height: 500px;
     width: 800px;
     margin: 0 auto;
@@ -155,11 +148,11 @@ input{
 }
 
 .carousel__button--left{
-    left: 171px;
+    left: 150px;
 }
 
 .carousel__button--right{
-    right: 128pt;
+    right: 90pt;
 }
 .carousel__button img{
     width: 10pt;

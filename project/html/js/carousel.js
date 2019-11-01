@@ -7,7 +7,7 @@ const prevButton = document.querySelector(' .carousel__button--left')
 
 var rightButton = document.querySelector( '.carousel__button--right' );
 var leftButton = document.querySelector( '.carousel__button--left' );
-var children = document.querySelector('.carousel__track').children;
+var children = document.querySelector('.js-carousel__track').children;
 
 var childrenArray = Array.from(children);
 
