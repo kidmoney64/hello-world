@@ -9,3 +9,11 @@ idea for future inprovements
 1.make a logo in the nav bar and make it return back to home when you click on it
 2.i would add more color scheme to the webpage it seems bland right now
 3.make ht webpage bigger and also create a tab for the bottom half of the page so they dont have to scroll all the way back to the top.
+
+
+ position: absolute;
+    outline-style: solid;
+    padding: 50pt;
+    margin-left: 40%;
+    margin-right: none;
+    padding: 20%;

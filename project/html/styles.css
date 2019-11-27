@@ -1,6 +1,6 @@
 header{
     background: black;
-    padding: 30px;
+    padding: 25px;
 }
 body{
     background: hsl(165,100%,60%);
@@ -19,7 +19,7 @@ h1{
 .container {
     text-align: center;
     text-transform: uppercase;
-    font-weight: 500;
+    font-weight: 400;
     letter-spacing: 8px;
 }
 .container{
